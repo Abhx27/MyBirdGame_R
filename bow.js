@@ -16,7 +16,7 @@ class Bow{
         stroke("black")
        var pointA  = this.bow.bodyA.position
         var pointB = pointB;
-       line(pointA.x,pointA.y,pointB.x,pointB.y) 
+       //line(pointA.x,pointA.y,pointB.x,pointB.y) 
         
     }
 }
